@@ -14,4 +14,4 @@ Email and Phone should be unique
 Age should be above 18
 
 List Doner:
-Show list of doner and when ckick on doner name, show doner details
+Show list of doner and when click on doner name, show doner details
